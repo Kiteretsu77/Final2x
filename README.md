@@ -22,7 +22,7 @@
 ![Download](https://img.shields.io/github/downloads/Tohrusky/Final2x/total)
 ![GitHub](https://img.shields.io/github/license/Tohrusky/Final2x)
 
-This is a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models, designed to enhance the resolution and quality of images, making them clearer and more detailed. Presently, it supports several models, such as RealCUGAN, RealESRGAN, and Waifu2x.
+This is a powerful tool that allows for image super-resolution to arbitrary sizes using multiple models, designed to enhance the resolution and quality of images, making them clearer and more detailed. Presently, it supports several models, such as [RealCUGAN](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md), [RealESRGAN](https://github.com/xinntao/Real-ESRGAN), [Waifu2x](https://github.com/nagadomi/waifu2x), and [APISR](https://github.com/Kiteretsu77/APISR).
 
 ## [Documentation](https://final2x.tohru.top)
 
